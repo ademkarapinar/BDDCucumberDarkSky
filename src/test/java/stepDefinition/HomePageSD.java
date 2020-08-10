@@ -28,7 +28,7 @@ public class HomePageSD {
           homePage.clickElementByJS();
       }
       @Then("^Verify min and max temperature$")
-    public void verifyMaxAndMin(){
+    public void verifyMaxAndMin() throws InterruptedException {
           homePage.verifyTemp();
       }
 }

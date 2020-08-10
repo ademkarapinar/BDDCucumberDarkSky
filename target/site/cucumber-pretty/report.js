@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4166842888,
+  "duration": 3872763735,
   "status": "passed"
 });
 formatter.background({
@@ -32,7 +32,7 @@ formatter.match({
   "location": "HomePageSD.IamOnHomePage()"
 });
 formatter.result({
-  "duration": 323757650,
+  "duration": 316648412,
   "status": "passed"
 });
 formatter.scenario({
@@ -68,25 +68,25 @@ formatter.match({
   "location": "HomePageSD.clickNavButton()"
 });
 formatter.result({
-  "duration": 7242818176,
+  "duration": 7246559745,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSD.clickTodayButton()"
 });
 formatter.result({
-  "duration": 40379769,
+  "duration": 29236677,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSD.verifyMaxAndMin()"
 });
 formatter.result({
-  "duration": 213932774,
+  "duration": 3179587588,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1358843,
+  "duration": 928831,
   "status": "passed"
 });
 });
